@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Mar 2024 23:37:22 at https://bbs-esthetique.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bbs-esthetique.com/ -O1 "C:\My Web Sites\Pagina" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:38:24	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/Trident/ (from https://bbs-esthetique.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.19.4)
+23:38:25	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=2222
+23:38:25	Warning: 	File has moved from https://bbs-esthetique.com/?p=2222 to https://bbs-esthetique.com/inicio/
+23:38:25	Warning: 	Moved Permanently for https://bbs-esthetique.com/index.php/tipos-de-cirugia-plastica/
+23:38:25	Warning: 	File has moved from https://bbs-esthetique.com/index.php/tipos-de-cirugia-plastica/ to https://bbs-esthetique.com/tipos-de-cirugia-plastica/
+23:38:25	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=2405
+23:38:25	Warning: 	File has moved from https://bbs-esthetique.com/?p=2405 to https://bbs-esthetique.com/nosotros/
+23:38:29	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=3929
+23:38:29	Warning: 	File has moved from https://bbs-esthetique.com/?p=3929 to https://bbs-esthetique.com/tours/
+23:38:29	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=3921
+23:38:29	Warning: 	File has moved from https://bbs-esthetique.com/?p=3921 to https://bbs-esthetique.com/emprendamos/
+23:38:30	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=2583
+23:38:30	Warning: 	File has moved from https://bbs-esthetique.com/?p=2583 to https://bbs-esthetique.com/cirugia-gratis/
+23:38:30	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=3923
+23:38:30	Warning: 	File has moved from https://bbs-esthetique.com/?p=3923 to https://bbs-esthetique.com/contactanos/
+23:38:30	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=3861
+23:38:30	Warning: 	File has moved from https://bbs-esthetique.com/?p=3861 to https://bbs-esthetique.com/blog/transforma-tu-belleza-con-bbs-esthetique/
+23:38:30	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=3859
+23:38:30	Warning: 	File has moved from https://bbs-esthetique.com/?p=3859 to https://bbs-esthetique.com/blog/bbs-esthetique-tu-puerta-a-la-belleza-sin-fronteras/
+23:38:30	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=3857
+23:38:30	Warning: 	File has moved from https://bbs-esthetique.com/?p=3857 to https://bbs-esthetique.com/blog/turismo-estetico-con-bbs-esthetique/
+23:38:30	Warning: 	Moved Permanently for https://bbs-esthetique.com/?p=2558
+23:38:30	Warning: 	File has moved from https://bbs-esthetique.com/?p=2558 to https://bbs-esthetique.com/politicas-de-privacidad/
+23:38:30	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/-negative.svg (from https://bbs-esthetique.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4)
+23:38:30	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/OPR/ (from https://bbs-esthetique.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4)
+23:38:30	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/tipos-de-cirugia-plastica/ (from https://bbs-esthetique.com/index.php/tipos-de-cirugia-plastica/)
+23:38:30	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?bvkp9k (from https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.22)
+23:38:30	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?bvkp9k (from https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.22)
+23:38:30	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?bvkp9k (from https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.22)
+23:38:30	Error: 	"Not Found" (404) at link https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?bvkp9k (from https://bbs-esthetique.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.22)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 8 seconds : 208 links scanned, 188 files written (11624835 bytes overall) [5735142 bytes received at 84340 bytes/sec], 9628013 bytes transferred using HTTP compression in 141 files, ratio 27%, 41.6 requests per connection
+(8 errors, 22 warnings, 0 messages)
